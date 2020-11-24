@@ -1,5 +1,10 @@
 ---
 layout: default
+sitemap:
+  lastmod: 2014-01-23
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'no'
 ---
 
 test publications
