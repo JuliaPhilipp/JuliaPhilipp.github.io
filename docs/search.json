@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-10T21:17:44-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Julia Philipp",
+      "author": [],
+      "contents": "\n\n          \n          \n          Julia Philipp\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Julia Philipp\n          \n          \n            \n              I am a molecular/computational biologist living in Santa Cruz. Currently, I am finishing up my PhD in Molecular, Cell, and Developmental Biology. I love hikes and hackathons.\n            \n            \n              I am a molecular/computational biologist living in Santa Cruz. Currently, I am finishing up my PhD in Molecular, Cell, and Developmental Biology. I love hikes and hackathons.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      ORCID iD\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    ORCID iD\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-02-10T21:17:44-08:00"
+    }
+  ],
+  "collections": []
+}
