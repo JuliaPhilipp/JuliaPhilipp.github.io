@@ -1,2 +1,10 @@
 /vendor/
 .bundle/
+.Rproj.user
+_site.yml
+about.Rmd
+index.Rmd
+jp.png
+juphilip.Rproj
+postcards.css
+tobi.jpg
